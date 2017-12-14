@@ -1,0 +1,53 @@
+
+#splash {
+	background-image: url(../img/fondo.jpeg);
+	background-repeat: no-repeat;
+    position:absolute;
+    margin:center;
+    top:0%;
+    left:0;
+    bottom:0;
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+
+}
+.img-splash{
+	width: 30%;
+	padding-top: 60%;
+}
+
+#fondo{
+	background-image: url(../img/fondo_index.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	height: 100vh;
+}
+
+.btn-transparent{
+	background-color: transparent;
+	color: #fff;
+	margin: 0 4% 
+	padding:10%;
+	border: 1px solid #fff;
+	font-size: 2em;
+}
+
+.logo-white{
+	width: 80%;
+}
+
+.logo-pink{
+	padding-top: 40%;
+    width: 100%;
+}
+
+.buttons{
+	padding-top: 70%;
+}
+.fa-home{
+	font-size: 300%;
+	margin-top: 60%;
+}
